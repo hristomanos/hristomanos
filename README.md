@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Christos
 #### MSc Games Programming student
-![MSc Games Programming student](https://github.com/hristomanos/hristomanos/blob/main/banner.jpg)
+![MSc Games Programming student](https://github.com/hristomanos/hristomanos/blob/main/bannerCropped.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
