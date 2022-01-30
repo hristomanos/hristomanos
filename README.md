@@ -1,10 +1,19 @@
-### Hi there 👋, my name is Christos
-#### MSc Games Programming student
 ![MSc Games Programming student](https://github.com/hristomanos/hristomanos/blob/main/bannerCropped.jpg)
 
+# Christos - Emmnanouil Anastasiou 
+### MSc Games Programming student
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C++ / C# / Lua /
+## Skills:
+* C++ 
+* C# 
+* Lua 
+
+## Past projects:
+
+
+
+
 
 
 
