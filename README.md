@@ -19,7 +19,7 @@ include gameplay and AI programming.
 * :wrench: Visual Studio, ZeroBrane 
 ## Examples of work:
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/DirectX11.gif" width = 320 />
-
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/2DPlatformer.gif" width = 320 />
 
 
 
