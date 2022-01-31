@@ -24,8 +24,8 @@ include gameplay and AI programming.
  <a href="https://bitbucket.org/Christomanos123/2dplatformer/src/master/">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/2DPlatformer.gif" width = 320 />
 </a>
- <a href="https://github.com/hristomanos/hristomanos/blob/main/HoverCar_Association_Demo.gif">
-<img src = "https://github.com/hristomanos/hristomanos/blob/main/2DPlatformer.gif" width = 213 />
+ <a href="https://github.com/hristomanos/DirectX11">
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/HoverCar_Association_Demo.gif" width = 213 />
 </a>
 
 
