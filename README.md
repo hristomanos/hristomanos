@@ -2,7 +2,7 @@
 
 # Christos - Emmnanouil Anastasiou 
 ### MSc Games Programming student
-I have been developing and styding about games for five years. When I was an undergraduate, I worked as a junior Unity 
+I have been studying about and developing games for the past five years. When I was an undergraduate, I worked as a junior Unity 
 developer during my placement year. I enjoyed discussing with game designers about game 
 mechanics. I would then proceed to find solutions by designing and implementing the systems 
 used for player character controls and artificial intelligence, aspects of game development that 
