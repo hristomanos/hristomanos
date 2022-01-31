@@ -18,7 +18,7 @@ include gameplay and AI programming.
 * :video_game: Unity 
 * :wrench: Visual Studio, ZeroBrane 
 ## Examples of work:
-
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/DirectX11.gif" width = 320 />
 
 
 
