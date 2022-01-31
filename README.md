@@ -17,8 +17,7 @@ include gameplay and AI programming.
 * :computer: C++, C#, Lua 
 * :video_game: Unity 
 * :wrench: Visual Studio, ZeroBrane 
-## Past projects:
-
+## Examples of work:
 
 
 
