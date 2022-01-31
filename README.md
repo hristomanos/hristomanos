@@ -25,7 +25,7 @@ include gameplay and AI programming.
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/2DPlatformer.gif" width = 320 />
 </a>
  <a href="https://github.com/hristomanos/DirectX11">
-<img src = "https://github.com/hristomanos/hristomanos/blob/main/HoverCar_Association_Demo.gif" width = 213 />
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/HoverCar_Association_Demo.gif" width = 320 />
 </a>
 
 
