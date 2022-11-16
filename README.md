@@ -1,6 +1,9 @@
 ![MSc Games Programming student](https://github.com/hristomanos/hristomanos/blob/main/bannerCropped.jpg)
 
 # Hi there! <img src = "https://github.com/hristomanos/hristomanos/blob/main/wave.gif" width = 30 />
+<p align="Justify">
+asdasasd
+</p>
 I am Christos, a games programmer living in London 🇬🇧 who loves designing and developing video games. When I was an undergraduate, I worked as a junior Unity 
 developer during my placement year. I enjoyed discussing with game designers about game 
 mechanics. I would then proceed to find solutions by designing and implementing the systems 
