@@ -1,9 +1,7 @@
 ![MSc Games Programming student](https://github.com/hristomanos/hristomanos/blob/main/bannerCropped.jpg)
 
 # Hi there! <img src = "https://github.com/hristomanos/hristomanos/blob/main/wave.gif" width = 30 />
-<p align="justify">
-
-
+<p align="Justify">
 I am Christos, a games programmer living in London 🇬🇧 who loves designing and developing video games. When I was an undergraduate, I worked as a junior Unity 
 developer during my placement year. I enjoyed discussing with game designers about game 
 mechanics. I would then proceed to find solutions by designing and implementing the systems 
@@ -14,7 +12,6 @@ made in computer graphics can dramatically change the visual fidelity of interac
 However, low level programming was not as rewarding as developing game mechanics 
 that could be quickly shown to other people when playtesting. Therefore, my current aspirations are roles that 
 include gameplay and AI programming.
-
  </p>
  
 ## Skills:
