@@ -1,8 +1,7 @@
 ![MSc Games Programming student](https://github.com/hristomanos/hristomanos/blob/main/bannerCropped.jpg)
 
 # Hi there! <img src = "https://github.com/hristomanos/hristomanos/blob/main/wave.gif" width = 30 />
-### MSc Computer Games Programming graduate
-I am a passionate games programmer who has been studying about and developing games for the past five years. When I was an undergraduate, I worked as a junior Unity 
+I am Christos, a games programmer living in London :GB: who loves designing and developing video games. When I was an undergraduate, I worked as a junior Unity 
 developer during my placement year. I enjoyed discussing with game designers about game 
 mechanics. I would then proceed to find solutions by designing and implementing the systems 
 used for player character controls and artificial intelligence, aspects of game development that 
