@@ -34,7 +34,7 @@ include gameplay and AI programming.
 <a href="https://github.com/hristomanos/AdvancedProgrammingCW2">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/PredatorsAndPrey.gif" width = 320 />
 </a>
-<a href="https://github.com/hristomanos/AdvancedProgrammingCW2">
+<a href="https://github.com/hristomanos/DynamicTacticalFormations">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/Formations.gif" width = 320 />
 </a>
 
