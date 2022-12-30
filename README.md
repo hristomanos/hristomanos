@@ -19,28 +19,35 @@ include gameplay and AI programming.
 * :video_game: Unity 
 * :wrench: Visual Studio, ZeroBrane 
 ## Examples of work:
+
 <a href="https://github.com/hristomanos/DirectX11">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/DirectX11.gif" width = 320 /> 
  </a>
+ 
+ <a href="https://github.com/hristomanos/DynamicTacticalFormations">
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/Formations.gif" width = 320 />
+</a>
+ 
+ <a href="https://github.com/hristomanos/AdvancedProgrammingCW2">
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/PredatorsAndPrey.gif" width = 320 />
+</a>
+ 
  <a href="https://bitbucket.org/Christomanos123/2dplatformer/src/master/">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/2DPlatformer.gif" width = 320 />
 </a>
+
  <a href="https://github.com/hristomanos/HoverCarAssociation">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/HoverCar_Association_Demo_2.gif" width = 320 />
 </a>
 <a href="https://github.com/hristomanos/TheRageOfTheGods">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/TheRageOfTheGods.gif" width = 320 />
 </a>
-<a href="https://github.com/hristomanos/AdvancedProgrammingCW2">
-<img src = "https://github.com/hristomanos/hristomanos/blob/main/PredatorsAndPrey.gif" width = 320 />
-</a>
-<a href="https://github.com/hristomanos/DynamicTacticalFormations">
-<img src = "https://github.com/hristomanos/hristomanos/blob/main/Formations.gif" width = 320 />
-</a>
+
+
 <a href="https://github.com/hristomanos/TheShooties">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/Shooties.png" width = 320 />
 </a>
-<a href="https://github.com/hristomanos/TheShooties">
+<a href="https://github.com/hristomanos/SpaceCruise">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/SpaceCruise.png" width = 320 height = 197 />
 </a>
 
