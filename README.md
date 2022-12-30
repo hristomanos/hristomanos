@@ -41,7 +41,7 @@ include gameplay and AI programming.
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/Shooties.png" width = 320 />
 </a>
 <a href="https://github.com/hristomanos/TheShooties">
-<img src = "https://github.com/hristomanos/hristomanos/blob/main/SpaceCruise.png" width = 320 height = 202 />
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/SpaceCruise.png" width = 320 height = 198 />
 </a>
 
 
