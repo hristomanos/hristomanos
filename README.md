@@ -40,7 +40,9 @@ include gameplay and AI programming.
 <a href="https://github.com/hristomanos/TheShooties">
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/Shooties.png" width = 320 />
 </a>
-
+<a href="https://github.com/hristomanos/TheShooties">
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/SpaceCruise.png" width = 320 />
+</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christos-emmanouil-anastasiou-a34a5b113//)
