@@ -19,7 +19,7 @@ include gameplay and AI programming.
 * :video_game: Unity 
 * :wrench: Visual Studio, ZeroBrane 
 
-## Demo reel
+## Demo reel:
 
 <a href="https://www.youtube.com/watch?v=Vs8me_vHLiM&ab_channel=ChristomanosAnastasiou">
 <img src = "http://img.youtube.com/vi/Vs8me_vHLiM/hqdefault.jpg" width = 320 /> 
@@ -58,7 +58,7 @@ include gameplay and AI programming.
 <img src = "https://github.com/hristomanos/hristomanos/blob/main/SpaceCruise.png" width = 320 height = 197 />
 </a>
 
-## Contact details
+## Contact details:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christos-emmanouil-anastasiou-a34a5b113//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCorMiitmU_6padBpn4smrRA )  
 
