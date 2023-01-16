@@ -22,7 +22,7 @@ include gameplay and AI programming.
 ## Demo reel
 
 <a href="https://www.youtube.com/watch?v=Vs8me_vHLiM&ab_channel=ChristomanosAnastasiou">
-<img src = "https://github.com/hristomanos/hristomanos/blob/main/DirectX11.gif" width = 320 /> 
+<img src = "http://img.youtube.com/vi/Vs8me_vHLiM/hqdefault.jpg" width = 320 /> 
  </a>
 
 ## Examples of work:
