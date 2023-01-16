@@ -18,6 +18,13 @@ include gameplay and AI programming.
 * :computer: C++, C#, Lua 
 * :video_game: Unity 
 * :wrench: Visual Studio, ZeroBrane 
+
+## Demo reel
+
+<a href="https://www.youtube.com/watch?v=Vs8me_vHLiM&ab_channel=ChristomanosAnastasiou">
+<img src = "https://github.com/hristomanos/hristomanos/blob/main/DirectX11.gif" width = 320 /> 
+ </a>
+
 ## Examples of work:
 
 <a href="https://github.com/hristomanos/DirectX11">
